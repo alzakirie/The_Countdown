@@ -1,4 +1,4 @@
-# Halloween Counter
+# Halloween Countdown
 
 #### Welcome to the Halloween Counter! This is a beginner's project which will gradually receive new features and gimmicks, so by the time of Halloween 2023, this will be a big, dynamic website that offers entertainment even outside of the spooky season! 🦉
 
