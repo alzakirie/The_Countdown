@@ -1,14 +1,14 @@
-# Halloween Countdown
+# The Countdown
 
-#### Welcome to the Halloween Countdown! This is a beginner's project which will gradually receive new features and gimmicks, so by the time of Halloween 2023, this will be a big, dynamic website that offers entertainment even outside of the spooky season! 🦉
+#### Welcome to The Countdown! This is a beginner's project which will gradually receive new features and gimmicks!
 
 ## 🎃 What is the vision of HC?
 
-Well, first and foremost, I needed something to begin with. A guinea pig, so to say. I started to search for something fitting in September 2022, which ultimately led to the Halloween Countdown. Easy, right? A Counter in JavaScript. But then I thought, what a waste of a project it would be to have a website just for ... counting? So the next logical step was to create a productive and informative (and fun) website that users could benefit from all year around.
+Well, first and foremost, I needed something to begin with. So I wanted to build a Countdown for Halloween. But then I thought; why stop at Halloween? And because I did not want to create seperate websites ... you get the idea.
 
-## 🔮 What does HC offer?
+## 🔮 What does TC offer?
 
-Well, besides the _super informative_ counter that tells you exactly how many day's there are left .. we'll have games, informative posts about the history of and around Halloween, news, super nice graphics and a guestbook (I am writing this end of Sep' 2022, so we'll see what actually makes it onto the side ...)
+Well, besides the _super informative_ countdowns? Let's see what I come up with.
 
 ## 🍫 I have an idea for the website ...
 
