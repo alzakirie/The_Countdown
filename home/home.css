@@ -1,0 +1,55 @@
+/* Logotype */
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+/* Heading Type */
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Questrial&display=swap');
+
+body {
+    background-color: white ;
+    color: rgb(31, 24, 24);
+}
+
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 100px;
+    
+}
+
+h2, h3 {
+    font-family: 'Questrial', sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+}
+
+#hero {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+}
+
+#header-little {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+}
+
+#demo {
+    font-size: 70px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+}
