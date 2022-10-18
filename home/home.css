@@ -53,3 +53,12 @@ nav {
     align-content: center;
     flex-flow: column wrap;
 }
+
+footer {
+    background-color: cornflowerblue;
+    padding: 100px 100px 100px 100px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-flow: column;
+}
